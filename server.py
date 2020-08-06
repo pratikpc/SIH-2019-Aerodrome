@@ -12,7 +12,7 @@ import base64
 import os
 import time
 import xml.dom.minidom
-from werkzeug import secure_filename
+from werkzeug.utils import secure_filename
 
 
 db_config = {'user': 'postgres', 'password': 'postgres',
