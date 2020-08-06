@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>Filtered Data</name>
+    <Placemark>
+      <name>MOSQUE</name>
+      <description>&lt;div&gt;MOSQUE&lt;/div&gt;&lt;div&gt;Runway: 27/TKOF09/APCH&lt;/div&gt;&lt;div&gt;Elevation (in ft): 116&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.8371666666667,19.09025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOSQUE</name>
+      <description>&lt;div&gt;MOSQUE&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 75&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.8830833333333,19.0897222222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SPEAKER ON MOSQUE</name>
+      <description>&lt;div&gt;SPEAKER ON MOSQUE&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 64&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.8819166666667,19.0893055555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOSQUE</name>
+      <description>&lt;div&gt;MOSQUE&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 168&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.8920833333333,19.0875555555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SPEAKER ON MOSQUE</name>
+      <description>&lt;div&gt;SPEAKER ON MOSQUE&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 66&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.8830277777778,19.0883333333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOSQUE</name>
+      <description>&lt;div&gt;MOSQUE&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 143&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.8961388888889,19.0911666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOSQUE</name>
+      <description>&lt;div&gt;MOSQUE&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 114&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.8911944444445,19.0895555555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOSQUE</name>
+      <description>&lt;div&gt;MOSQUE&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 127&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.8895277777778,19.0881388888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOSQUE</name>
+      <description>&lt;div&gt;MOSQUE&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 135&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.8910277777778,19.0893611111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOSQUE</name>
+      <description>&lt;div&gt;MOSQUE&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 121&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.8916666666667,19.0876111111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOSQUE</name>
+      <description>&lt;div&gt;MOSQUE&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 139&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.8894444444445,19.0905277777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOSQUE</name>
+      <description>&lt;div&gt;MOSQUE&lt;/div&gt;&lt;div&gt;Runway: 27/APCH09/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 151&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.8881388888889,19.0912777777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOSQUE</name>
+      <description>&lt;div&gt;MOSQUE&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 107&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.8816111111111,19.0913888888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOSQUE</name>
+      <description>&lt;div&gt;MOSQUE&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 182&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.8885555555556,19.0916388888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOSQUE</name>
+      <description>&lt;div&gt;MOSQUE&lt;/div&gt;&lt;div&gt;Runway: In circling area and at AD&lt;/div&gt;&lt;div&gt;Elevation (in ft): 190&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.8881666666667,19.0917222222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOSQUE</name>
+      <description>&lt;div&gt;MOSQUE&lt;/div&gt;&lt;div&gt;Runway: 32/APCH14/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 68&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.8815555555556,19.0783888888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOSQUE</name>
+      <description>&lt;div&gt;MOSQUE&lt;/div&gt;&lt;div&gt;Runway: 32/APCH14/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 86&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.8799166666667,19.0761944444444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOSQUE</name>
+      <description>&lt;div&gt;MOSQUE&lt;/div&gt;&lt;div&gt;Runway: 32/APCH14/TKOF&lt;/div&gt;&lt;div&gt;Elevation (in ft): 67&lt;/div&gt;&lt;div&gt;Marking: NIL&lt;/div&gt;</description>
+      <Point>
+        <coordinates>72.8815555555556,19.07775</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

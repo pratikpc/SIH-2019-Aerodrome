@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Search</title>
+
+    <meta name="viewport" content="initial-scale=1.0, 
+      width=device-width" />
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet'
+        type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <!-- Custom styles for this template -->
+    <link href="css/agency.css" rel="stylesheet">
+
+
+</head>
+
+<body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">Aerodrome Obstacles</a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+                aria-label="Toggle navigation">
+                Menu
+                <i class="fas fa-bars"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav text-uppercase ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="about.html">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="team.html">Team</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="spons.html">Sponsors</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="search.html">Filter</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Search Bars -->
+    <div id="aerodrome-list">
+        <div class="container-fluid masthead1 innerpad1" style="padding-bottom: 6.9%">
+            <div class="row testing">
+                <div class="col-lg-1 innerpad1">&nbsp;</div>
+                <div class="col-lg-10 text-center innerpad1 greybg">
+                    <h1 style="padding-top:7%; padding-bottom: 2%; color:#fed136; text-shadow:black 2px 2px 2px">
+                        Advanced Search</h1>
+                </div>
+                <div class="col-lg-1">&nbsp;</div>
+            </div>
+            <div class="container-fluid" style="margin: auto; padding-left: 13%">
+                <div class="row">
+                    <div class="col-lg-1 testing">&nbsp;</div>
+                    <div class="col-lg-10 testing greybg">
+                        <div class="row" style="margin: auto">
+                            <div class="col-sm-4">
+                                <input class="myInput" type="text" id="icao" onkeyup="" placeholder="ICAO Codes">
+                            </div>
+                            <div class="col-sm-4">
+                                <input class="myInput" type="text" id="affected" onkeyup="" placeholder="Affected Area">
+                            </div>
+                        </div>
+                        <div class="row" style="margin: auto">
+                            <div class="col-sm-4">
+                                <input class="myInput" type="text" id="obs_type" onkeyup="" placeholder="Obstacle Type">
+                            </div>
+                            <div class="col-sm-4">
+                                <input class="myInput" type="text" id="elevation" onkeyup="" placeholder="Elevation">
+                            </div>
+                        </div>
+                        <div class="row" style="margin: auto">
+                            <div class="col-sm-4">
+                                <input class="myInput" type="text" id="latitude" onkeyup="" placeholder="Latitude">
+                            </div>
+                            <div class="col-sm-4">
+                                <input class="myInput" type="text" id="longitude" onkeyup="" placeholder="Longitude">
+                            </div>
+                        </div>
+                        <div class="row" style="margin: auto">
+                            <div class="col-sm-4">
+                                <input class="myInput" type="text" id="marking" onkeyup="" placeholder="Marking">
+                            </div>
+                            <div class="col-sm-4">
+                                <input class="myInput" type="text" id="remark" onkeyup="" placeholder="Remark">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container-fluid" style="align-content: center; padding-left: 23%">
+                    <div class="row text-center" style="padding-top: 5%; padding-bottom: 5%; align-content: center">
+                        <div class="col-ls-12">
+                            <button class="btn-primary btn-lg" id="Preview2D"
+                                style="color:black; text-shadow:white 0.5px 0.5px 0.5px">Preview in 2D</button>
+                        </div>
+                        <div class="col-ls-12">
+                            <button class="btn-primary btn-lg" id="Download3D"
+                                style="color:black; text-shadow:white 0.5px 0.5px 0.5px">Download in 3D</button>
+                        </div>
+                        <div class="col-ls-12">
+                            <button class="btn-primary btn-lg" id="List"
+                                style="color:black; text-shadow:white 0.5px 0.5px 0.5px">List</button>
+                        </div>
+                    </div>
+                </div> 
+                    <div class="row text-center" style="text-align: center">
+                        <div class="error" style="margin: auto">
+                            <h2 id="error_class"></h2>
+                        </div>
+                       
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="innerpad1">
+        <div data-role="content" id="Div1">
+            <div id="indextable"></div>
+        </div>
+    </div>
+    <div class="col-lg-1">&nbsp;</div>
+    </div>
+    </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">Copyright &copy; TEAM VORTEX </span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        <li class="list-inline-item">
+                            <a href="#">
+                                <i class="fab fa-twitter"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#">
+                                <i class="fab fa-facebook-f"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#">
+                                <i class="fab fa-linkedin-in"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li class="list-inline-item">
+                            <a href="#">Privacy Policy</a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#">Terms of Use</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="search.js"></script>

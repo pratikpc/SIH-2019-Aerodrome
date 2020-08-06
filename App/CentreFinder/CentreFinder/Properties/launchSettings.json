@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CentreFinder": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\vedan\\Desktop\\vortex\\Data"
+    }
+  }
+}
